@@ -1,0 +1,11 @@
+
+{
+	"name":"A basic progressive Currency Converter app",
+   "short_name" :"CeeCee",
+   "start_url": ".",
+   "display" :"standalone",
+   "orientation": "portrait",
+   "background_clor": "#ccc",
+   "theme_color" : "#5FAAE5"
+
+}
